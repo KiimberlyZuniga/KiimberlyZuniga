@@ -55,7 +55,7 @@ I enjoy solving problems, improving testing processes, and continuously learning
 
 ---
 
-## 🚀 Currently Learning
+## 🚀 Currently Expanding My Skills
 
 - Selenium WebDriver
 - Playwright
@@ -80,7 +80,18 @@ I'm currently building my QA portfolio. New projects will be added soon, includi
 - ✅ Database
 
 ---
+## 📜 Certifications
 
+- Scrum Fundamentals
+- ISTQB (In Progress)
+
+---
+## 🌍 Languages
+
+- Spanish (Native)
+- English (Professional Working Proficiency)
+
+---
 ## 📫 Connect With Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/kimberlyruedazuniga/
@@ -89,3 +100,6 @@ I'm currently building my QA portfolio. New projects will be added soon, includi
 ---
 
 ⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+
+
+💡 I believe quality is not only about finding bugs, but also about preventing them and continuously improving the software development process.
