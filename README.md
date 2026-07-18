@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi, I'm Kimberly Rueda Zuñiga👋
 
-<!--
-**KiimberlyZuniga/KiimberlyZuniga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## QA Engineer | Manual Testing | Automation | API Testing
 
-Here are some ideas to get you started:
+I'm a QA Engineer with 5 years of experience in software quality assurance. I have worked on enterprise applications for international clients, focusing on manual testing, API testing, automation, and Agile methodologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me
+
+- 💼 5+ years in Software QA
+- 🌎 Based in Costa Rica
+- 🔍 Passionate about software quality
+- 🤖 Learning Selenium, Playwright, Java, C#, and AWS
+- 🚀 Interested in QA Automation and AI-assisted testing
+
+---
+
+## Tech Stack
+
+- JavaScript
+- Cucumber
+- Serenity
+- Postman
+- Insomnia
+- SQL
+- Git
+- GitHub
+- Jira
+- AEM
+- REST APIs
+
+---
+
+## Currently Working On
+
+- Selenium Automation
+- Playwright
+- API Automation
+- AI-assisted QA
+- AWS Fundamentals
+
+---
+
+## Connect with me
+
+- LinkedIn
+- Email
