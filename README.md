@@ -10,7 +10,6 @@ I enjoy solving problems, improving testing processes, and continuously learning
 
 ## 👩‍💻 About Me
 
-- 💼 5+ years of experience in Software Quality Assurance
 - 🌎 Based in Costa Rica
 - 🤝 Experienced working with cross-functional Agile teams
 - 📚 Continuously learning new automation and cloud technologies
@@ -39,12 +38,19 @@ I enjoy solving problems, improving testing processes, and continuously learning
 - API Lifecycle
 - Looper
 - Swagger Client
+- AI-assisted Test Automation
+
+### Web Technologies
+
+- Adobe Experience Manager (AEM)
+- REST APIs
 
 ### Tools
+
 - Jira
 - Git
 - GitHub
-- Adobe Experience Manager (AEM)
+- Confluence
 
 ### Database
 - SQL
@@ -52,6 +58,43 @@ I enjoy solving problems, improving testing processes, and continuously learning
 ### Methodologies
 - Agile
 - Scrum
+
+---
+---
+
+## 💼 Professional Experience
+
+### QA Automation Engineer
+**Softeck** | Present
+
+- Develop and maintain automated API tests.
+- Execute automated regression testing.
+- Collaborate with developers throughout the Software Development Life Cycle (SDLC).
+- Contribute to improving software quality through automation.
+
+### Quality Assurance Engineer
+**Infoya** | 3+ Years
+
+- Performed manual testing for enterprise web applications.
+- Validated Adobe Experience Manager (AEM) implementations.
+- Executed Functional, Regression, Smoke, Exploratory, API, and End-to-End testing.
+- Created and maintained test cases and QA documentation.
+- Collaborated with developers, Product Owners, and Business Analysts in Agile Scrum teams.
+
+### Software Engineer
+**HCL Technologies** | 8 month
+
+- Executed functional, regression, smoke, integration, and exploratory testing for enterprise applications.
+- Designed and maintained detailed test cases based on business requirements and technical specifications.
+- Reported, documented, and monitored software defects, collaborating with developers to ensure timely resolution.
+- Collaborated with cross-functional teams to improve software quality and user experience.
+
+### Software Quality Assurance
+
+**Konrad · Internship** | 6 month
+
+- Assisted in manual testing activities for web applications and created and executed functional test cases based on business requirements.
+- Reported software defects and validated fixes prior to release while gaining hands-on Agile process experience.
 
 ---
 
@@ -67,17 +110,6 @@ I enjoy solving problems, improving testing processes, and continuously learning
 
 ---
 
-## 📂 Featured Projects
-
-I'm currently building my QA portfolio. New projects will be added soon, including:
-
-- ✅ API Automation
-- ✅ Selenium WebDriver Framework
-- ✅ Playwright UI Automation
-- ✅ SQL Practice for QA
-- ✅ Test Cases & Bug Reports
-- ✅ Automation Challenges
-- ✅ Database
 
 ---
 ## 📜 Certifications
